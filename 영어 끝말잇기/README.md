@@ -33,11 +33,11 @@ def solution(n, words):
 
 ## 분석
 ### 로직
+해당 사항 없음.
+
+### 문법
 딕셔너리(혹은 이 경우에선 집합)에 요소를 추가하는 방법
 ```
 word_set.add(words[i])
-```
-
-### 문법
-해당 사항 없음.   
+```   
 > Written with [StackEdit](https://stackedit.io/).
