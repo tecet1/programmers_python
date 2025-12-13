@@ -20,3 +20,6 @@ ai가 제시한 방향성을 보고도 잘 구현하지 못한 문제는 벽이�
 
 12/11
 [알고리즘 고득점 kit - 해시](https://school.programmers.co.kr/learn/courses/30/parts/12077)
+
+12/13
+[알고리즘 고득점 kit - 스택/큐](https://school.programmers.co.kr/learn/courses/30/parts/12081)
