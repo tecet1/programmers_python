@@ -35,6 +35,9 @@ ai가 제시한 방향성을 보고도 잘 구현하지 못한 문제는 벽이�
 [알고리즘 고득점 kit - 완전탐색](https://school.programmers.co.kr/learn/courses/30/parts/12230)
 
 2025/12 4주차
-복습할 문제: [특정 세대의 대장균 찾기](https://school.programmers.co.kr/learn/courses/30/lessons/301650)
+복습할 문제: [특정 세대의 대장균 찾기](https://school.programmers.co.kr/learn/courses/30/lessons/301650), [멸종위기의 대장균 찾기](https://school.programmers.co.kr/learn/courses/30/lessons/301651)
+
+12/22
+[SQL 고득점 kit - SELECT](https://school.programmers.co.kr/learn/courses/30/parts/17042)
 
 
